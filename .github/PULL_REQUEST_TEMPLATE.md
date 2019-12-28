@@ -15,5 +15,7 @@ The following is a template for students competing in the Innovation Challenge t
 - [ ] In the src subfolder there is a file called prototype_info.txt that explains the prototype.
 - [ ] The file prototype_info.txt contains the name of the software used to make the prototype and a link to the download page. If you have programmed you prototype please give us the name of the programming langague and a link to the download page or an Online IDE.
 - [ ] The file prototype_info.txt instructions on how to view my prototype. We will make our best effort but if we can't view your prototype you could miss out on crucial points.
-- [ ] My submission follows the Code of Conduct
+- [ ] I have read and understood the [contributors guide](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTING.md).
+- [ ] I have read and understood the [code of conduct](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CODE_OF_CONDUCT.md).
+- [ ] I have add myself and my teammates to the [contributors list](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTERS.md) with the same format as Sam Poder just in the Innovation Challenge Participants section.
 - [ ] This is my final submission, whilst you can still make commits after submitting this PR, once it's merged (we're quick) you will not be edit it. Small issues you can chat on Gitter and we can try to work it out but can't ensure anything.
