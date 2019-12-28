@@ -36,9 +36,11 @@ If you would like to join the debate team get in contact with Ms. Carte.
 
 This year's Innovation Week is being fully organized by the students of student council.
 
-#### **The Core Team**
+The full team is online at the Gitter Chat:
 
-These are the people to contact if you need help:
+[![Join the chat at https://gitter.im/gwa-sg-innovation-week/community](https://badges.gitter.im/gwa-sg-innovation-week/community.svg)](https://gitter.im/gwa-sg-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+#### **The Core Team**
 
 <table border="1" cellpadding="100">
   <thead>
@@ -70,10 +72,6 @@ These are the people to contact if you need help:
     </tr>
   </tbody>
 </table>
-
-If you simply need general support join out Gitter Chat:
-
-[![Join the chat at https://gitter.im/gwa-sg-innovation-week/community](https://badges.gitter.im/gwa-sg-innovation-week/community.svg)](https://gitter.im/gwa-sg-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 #### **Volunteers**
 
