@@ -1,4 +1,4 @@
-Innovation Week Contributors & Volunteers (sorted alphabetically)
+Innovation Week Contributors & Volunteers
 ============================================
 
 ### Direct Contributors to this Repo
