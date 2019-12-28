@@ -42,7 +42,7 @@ These are the people to contact if you need help:
 
 | Name  | Sam Poder |Diego Paniagua Silva |Anjali Grillo |
 | ------------- | ------------- | ------------- | ------------- |
-| Gitter Chat  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/sam.png" style ="width=100">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/diego.jpg"  style ="width=100">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/anjali.png" style ="width=100">  |
+|  | <img src ="https://avatars3.githubusercontent.com/u/39828164?s=460&v=4" width="200">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/diego.jpg"  width="200">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/anjali.png" width="200">  |
 | Gitter Chat  | [@sampoder](https://gitter.im/sampoder)  | Coming Soon  | Coming Soon  |
 | Github Profile  | [@sampoder](https://github.com/sampoder)  | Coming Soon  | Coming Soon  |
 
