@@ -34,21 +34,20 @@ The following behaviors are expected and requested of all community members:
 The following behaviors are considered harassment and are unacceptable within our community:
 
  * Violence, threats of violence or violent language directed against another person.
- * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+ * Discriminatory jokes and language.
  * Posting or displaying explicit or violent material.
- * Posting or threatening to post other people's personally identifying information ("doxing").
- * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+ * "Trolling" and Cyberbullying through digital platforms.
+ * Personal insults, particularly those related to a person's identity.
  * Inappropriate photography or recording.
  * Inappropriate or aggressive physical contact.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
- * Advocating for, or encouraging, any of the above behavior.
+ * Unwelcome sexual attention.
  * Sustained disruption of community events, including talks and presentations.
+ * Disrespecting other's projects
+ * All behavouirs outlined as unacceptable in the [GEMS Singapore Student Handbook Page 22 - 34](https://drive.google.com/open?id=13PRRf-RAr4bLNA_gzZk3-K0p2l_R3I0p&authuser=1)
+ * Advocating for, or encouraging, any of the above behavior.
 
-## 5. Weapons Policy
 
-No weapons will be allowed at GEMS Singapore Innovation Week 2020 events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
-
-## 6. Consequences of Unacceptable Behavior
+## 5. Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -56,31 +55,25 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 7. Reporting Guidelines
+## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. .
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a nearby teacher as soon as possible.
 
+## 7. Addressing Grievances
 
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify any teacher immediately. Your issue will be handled in accordance with the school's existing governing policies. [Policy](https://drive.google.com/file/d/13PRRf-RAr4bLNA_gzZk3-K0p2l_R3I0p/view)
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
-
-## 8. Addressing Grievances
-
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify any teacher immediately with a concise description of your grievance. Your grievance will be handled in accordance with the school's existing governing policies. [Policy](https://drive.google.com/file/d/13PRRf-RAr4bLNA_gzZk3-K0p2l_R3I0p/view)
-
-
-
-## 9. Scope
+## 8. Scope
 
 We expect all community participants to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## 9. Contact info
 
 Minor issues can be reported to the GEMS Singapore Innovation Week 2020 team at the Gitter chat linked in the README.
 
-## 11. License and attribution
+## 10. License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
