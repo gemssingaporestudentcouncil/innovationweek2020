@@ -24,7 +24,7 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 We have multiple experienced industry professionals as well as teachers and students volunteering to teach you new skills and devolp your preexisting ones. We have workshops covering everything from Google Sheets to Flight Simulators to Python and much more. Watch this space for a full list coming soon.
 
-[Learn more here.](example.com)
+[Learn more here.](workshops)
 
 ### Debate
 
