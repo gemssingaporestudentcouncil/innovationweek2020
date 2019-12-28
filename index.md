@@ -77,22 +77,6 @@ The full team is online at the Gitter Chat:
 
 We have many students, teachers and parents volunteering to help out during Innovation week. We also have all the wonderful student council members who are assisting in running the week. If you run into any volunteers please do thank them as they have put in a lot of effort to help participants. You can see all the volunteers [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTERS.md).
 
-Here is a mermaid diagram:
-  <div class="mermaid">
-    gantt
-    title Innovation Challenge
-    dateFormat  YYYY-MMMM-DD
-    section Required
-    Intro Meeting           :a1, 2020-January-07, 1d
-    Building    : after a1, 6d
-    Pitch Workshop   : 2020-January-13, 1d
-    Final Pitch    : 1d
-    section Optional
-    Brainstorm     :a1, 2020-January-05, 3d
-    Workshops     :a2, 2020-January-10, 4d
-    Lunch Time & After School Innovation Suite Preperation Time     :a2, 2020-January-07, 8d
 
-  </div>
-  
   
 
