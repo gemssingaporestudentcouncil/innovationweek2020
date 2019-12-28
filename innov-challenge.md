@@ -8,13 +8,48 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 The schedule for the Innovation Week is as follows:
 
-| Day        | Event           | Location |  |
-| ------------- |:-------------:| :-----:| :-----:|
-| Friday 7th Feb Lunch      | Introduction Meeting | Innovation Suite | Required  |
-| Monday 10th - 13th Feb Lunch & After School       | [Workshops](./workshops)  | Multiple | Optional  |
-| Monday 10th - 14th Feb Lunch & After School       | Competition Support  | Innovation Suite | Optional  |
-| Thursday 13th Feb Lunch      | Pitching Workshop | Innovation Suite | Required  |
-| Friday 14th Feb 1.00pm - 3.30pm      | Showcase (& Showcase Prep)| Flexispace | Required  |
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th style="text-align: center">Event</th>
+      <th style="text-align: center">Location</th>
+      <th style="text-align: center">&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Friday 7th Feb Lunch</td>
+      <td style="text-align: center">Introduction Meeting</td>
+      <td style="text-align: center">Innovation Suite</td>
+      <td style="text-align: center">Required</td>
+    </tr>
+    <tr>
+      <td>Monday 10th - 13th Feb Lunch &amp; After School</td>
+      <td style="text-align: center"><a href="./workshops">Workshops</a></td>
+      <td style="text-align: center">Multiple</td>
+      <td style="text-align: center">Optional</td>
+    </tr>
+    <tr>
+      <td>Monday 10th - 14th Feb Lunch &amp; After School</td>
+      <td style="text-align: center">Competition Support</td>
+      <td style="text-align: center">Innovation Suite</td>
+      <td style="text-align: center">Optional</td>
+    </tr>
+    <tr>
+      <td>Thursday 13th Feb Lunch</td>
+      <td style="text-align: center">Pitching Workshop</td>
+      <td style="text-align: center">Innovation Suite</td>
+      <td style="text-align: center">Required</td>
+    </tr>
+    <tr>
+      <td>Friday 14th Feb 1.00pm - 3.30pm</td>
+      <td style="text-align: center">Showcase (&amp; Showcase Prep)</td>
+      <td style="text-align: center">Flexispace</td>
+      <td style="text-align: center">Required</td>
+    </tr>
+  </tbody>
+</table>
 
 ### What do I have to do?
 
