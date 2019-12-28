@@ -46,6 +46,16 @@ These are the people to contact if you need help:
 | Gitter Chat  | [@sampoder](https://gitter.im/sampoder)  | Coming Soon  | Coming Soon  |
 | Github Profile  | [@sampoder](https://github.com/sampoder)  | Coming Soon  | Coming Soon  |
 
+If you simply need general support join out Gitter Chat:
+
+[![Join the chat at https://gitter.im/gwa-sg-innovation-week/community](https://badges.gitter.im/gwa-sg-innovation-week/community.svg)](https://gitter.im/gwa-sg-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+#### Volunteers
+
+We have many students, teachers and parents volunteering to help out during Innovation week. We'll have a full list here soon. We also have all the [wonderful student council members](https://gemssingaporestudentcouncil.github.io/members.html) who are assisting in running the week.
+
+If you run into any of them please do thank them as they have put in a lot of effort to help participants.
+
 Here is a mermaid diagram:
   <div class="mermaid">
     gantt
