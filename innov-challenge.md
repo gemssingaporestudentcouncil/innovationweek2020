@@ -18,6 +18,22 @@ The schedule for the Innovation Week is as follows:
 
 TLDR; Participants should create an idea that can solve a Global Goal listed below. They should then create a prototype that represents the solution (eg. Mobile App Mockup or 3D Render of Product). They should then create a quick write up involving a summary of the project and how it solves the Global Issue. Based on this, they will present their work at a fair. The winner will be selected based on their pitch as well as the quality of their prototype.
 
+<div class="mermaid">
+    stateDiagram
+    Process
 
+    state Process {
+        [*] --> Brainstorm
+        Brainstorm --> Build
+        Build --> Prepare
+        Prepare --> Pitch
+        note right of Brainstorm: Here you will come up with an Idea
+        note right of Build: Here you will create your prototype
+        note right of Prepare: Here you will do your write-up and prepare to pitch with the pitching workshop
+        note right of Pitch: Here you will pitch your project
+
+       
+    }
+</div>
 
 ### Global Issues
