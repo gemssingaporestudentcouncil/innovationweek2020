@@ -16,7 +16,6 @@ Here is a mermaid diagram:
     Building    : after a1, 6d
     Pitch Workshop   : 2020-January-13, 1d
     Final Pitch    : 1d
-    
     section Optional
     Brainstorm     :a1, 2020-January-05, 3d
     Workshops     :a2, 2020-January-10, 4d
