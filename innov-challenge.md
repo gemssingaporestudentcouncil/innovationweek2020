@@ -8,7 +8,7 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 The schedule for the Innovation Week is as follows:
 
-<table>
+<table border="1" cellpadding="100">
   <thead>
     <tr>
       <th>Day</th>
