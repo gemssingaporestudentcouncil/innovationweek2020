@@ -18,17 +18,17 @@ Innovation Week Contributors & Volunteers (sorted alphabetically)
 
 ### Student Council Members
 
-* ** Shaquille Aranas **
-* ** Dhafin Rizaldi **
-* ** Anushka Bhatia **
-* ** Annika Nair **
-* ** Akira Aranas **
-* ** Aanya Dilip **
-* ** Lies Van Asten **
-* ** Aarush Bajaj **
-* ** Katherine Lei **
-* ** Marilena Kolokotsa **
-* ** Devika Shenoy **
-* ** Anna Fedoruk **
-* ** Elizabeth Chernyak **
+* **Shaquille Aranas**
+* **Dhafin Rizaldi**
+* **Anushka Bhatia**
+* **Annika Nair**
+* **Akira Aranas**
+* **Aanya Dilip**
+* **Lies Van Asten**
+* **Aarush Bajaj**
+* **Katherine Lei**
+* **Marilena Kolokotsa**
+* **Devika Shenoy**
+* **Anna Fedoruk**
+* **Elizabeth Chernyak**
 
