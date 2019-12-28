@@ -6,7 +6,7 @@ GEMS Singapore Student Council is proud to be hosting the school's first Innovat
 
 **Table of Contents**
 
-1. [Innovation Challenge](google.com)
+1. [Innovation Challenge](#innovation-challenge)
 
 2. [Workshops](google.com)
 
