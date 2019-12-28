@@ -1,0 +1,15 @@
+
+<div class="container">
+	<h4 style="margin : 0px">{{ site.texture.secondtagline }}</h4>
+	<h1>{{ site.texture.title }}</h1>
+	<h2>{{ site.texture.tagline }}</h2>
+	<ul class="social">
+		{%- if site.texture.social_links.instagram -%}
+			<a href="https://instagram.com/{{ site.texture.social_links.instagram }}"><li><i class="icon-instagram-squared"></i></i></li></a>
+		{%- endif -%}
+		{%- if site.texture.social_links.github -%}
+			<a href="https://github.com/{{ site.texture.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
+		{%- endif -%}
+	</ul>
+</div>
+
