@@ -32,3 +32,5 @@ Innovation Week Contributors & Volunteers
 * **Anna Fedoruk**
 * **Elizabeth Chernyak**
 
+### Innovation Challenge Participants
+
