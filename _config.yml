@@ -37,7 +37,15 @@ texture:
 
 # Build settings
 # theme: texture
-
+include:
+  - index.md
+  - innov-challenge.md
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-relative-links
+  #  - jekyll-feed
+relative_links:
+  enabled: true
+  collections: true
+
+
