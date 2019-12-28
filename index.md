@@ -40,11 +40,36 @@ This year's Innovation Week is being fully organized by the students of student 
 
 These are the people to contact if you need help:
 
-| Name  | Sam Poder |Diego Paniagua Silva |Anjali Grillo |
-| ------------- | ------------- | ------------- | ------------- |
-|  | <img src ="https://avatars3.githubusercontent.com/u/39828164?s=460&v=4" width="200">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/diego.jpg"  width="200">  | <img src ="https://gemssingaporestudentcouncil.github.io/assets/img/anjali.png" width="200">  |
-| Gitter Chat  | [@sampoder](https://gitter.im/sampoder)  | Coming Soon  | Coming Soon  |
-| Github Profile  | [@sampoder](https://github.com/sampoder)  | Coming Soon  | Coming Soon  |
+<table border="1" cellpadding="100">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Sam Poder</th>
+      <th>Diego Paniagua Silva</th>
+      <th>Anjali Grillo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <td><img src="https://avatars3.githubusercontent.com/u/39828164?s=460&amp;v=4" width="200"></td>
+      <td><img src="https://gemssingaporestudentcouncil.github.io/assets/img/diego.jpg" width="200"></td>
+      <td><img src="https://gemssingaporestudentcouncil.github.io/assets/img/anjali.png" width="200"></td>
+    </tr>
+    <tr>
+      <td>Gitter Chat</td>
+      <td><a href="https://gitter.im/sampoder">@sampoder</a></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+    <tr>
+      <td>Github Profile</td>
+      <td><a href="https://github.com/sampoder">@sampoder</a></td>
+      <td>Coming Soon</td>
+      <td>Coming Soon</td>
+    </tr>
+  </tbody>
+</table>
 
 If you simply need general support join out Gitter Chat:
 
