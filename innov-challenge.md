@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <div class="mermaid">
     gantt
     title Innovation Challenge
