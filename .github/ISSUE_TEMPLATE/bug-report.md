@@ -1,8 +1,8 @@
 ---
 name: Bug Report
 about: Issue with our Software? Report it here.
-title: "[BUG] [Insert Issue]"
-labels: ''
+title: "[BUG] [Insert Issue Title Here]"
+labels: bug
 assignees: ''
 
 ---
