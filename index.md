@@ -52,9 +52,7 @@ If you simply need general support join out Gitter Chat:
 
 #### Volunteers
 
-We have many students, teachers and parents volunteering to help out during Innovation week. We'll have a full list here soon. We also have all the [wonderful student council members](https://gemssingaporestudentcouncil.github.io/members.html) who are assisting in running the week.
-
-If you run into any of them please do thank them as they have put in a lot of effort to help participants.
+We have many students, teachers and parents volunteering to help out during Innovation week. We also have all the wonderful student council members who are assisting in running the week. If you run into any volunteers please do thank them as they have put in a lot of effort to help participants. You can see all the volunteers [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTERS.md).
 
 Here is a mermaid diagram:
   <div class="mermaid">
