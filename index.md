@@ -2,9 +2,20 @@
 layout: page
 ---
 
-<br>
+GEMS Singapore Student Council is proud to be hosting the school's first Innovation Week from February 5th to February 14th. We will be having a variety of events throughout the week (more announcements coming soon) for students to showcase their talents as well as devolp new ones. They're will be an event for everyone! Explore them all below.
 
-### Welcome!
+**Table of Contents**
+
+1. [Innovation Challenge](google.com)
+
+2. [Workshops](google.com)
+
+3. [Debate](google.com)
+
+4. [The Team](google.com)
+
+### Innovation Challenge
+
 
 Here is a mermaid diagram:
   <div class="mermaid">
