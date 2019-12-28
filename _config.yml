@@ -1,15 +1,13 @@
 title: GEMS Innovation Week 2020
 author: GEMS Singapore Student Council
 email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
+description: >
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: true
 baseurl: /innovationweek2020
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
 
@@ -20,30 +18,16 @@ texture:
   secondtagline: GEMS Singapore Student Council
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
-  showPicker: false
 
-  # generate social links in footer
   social_links:
     instagram: gemsstucosg
     github:  gemssingaporestudentcouncil
     rss: rss
- 
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: texture
-include:
-  - index.md
-  - innov-challenge.md
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
-  #  - jekyll-feed
+
 relative_links:
   enabled: true
   collections: true
