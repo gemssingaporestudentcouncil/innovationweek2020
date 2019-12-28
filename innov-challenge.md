@@ -20,9 +20,7 @@ TLDR; Participants should create an idea that can solve a Global Goal listed bel
 
 <div class="mermaid">
     stateDiagram
-    Process
-
-    state Process {
+    
         [*] --> Brainstorm
         Brainstorm --> Build
         Build --> Prepare
@@ -31,9 +29,6 @@ TLDR; Participants should create an idea that can solve a Global Goal listed bel
         note right of Build: Here you will create your prototype
         note right of Prepare: Here you will do your write-up and prepare to pitch with the pitching workshop
         note right of Pitch: Here you will pitch your project
-
-       
-    }
 </div>
 
 ### Global Issues
