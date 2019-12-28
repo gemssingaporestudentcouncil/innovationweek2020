@@ -24,11 +24,11 @@ TLDR; Participants should create an idea that can solve a Global Goal listed bel
 
 Above are the key four stages of the competition.
 
-- Brainstorm
+- **Brainstorm**
 
 Here you need to brainstorm ideas to solve a problem and then select one final idea. A good resource to help with brainstorming is [Ideo's guide](https://www.ideou.com/pages/brainstorming). Then to select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
 
-- Build
+- **Build**
 
 Now you need create a prototype. The instructions differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). Below are some tools you can use to make your product. If there's anything you need to borrow let us know on the Gitter channel.
 
@@ -40,13 +40,13 @@ Now you need create a prototype. The instructions differ greatly for what ever i
 |Hardware|Ardunio|
 |Website|Templates from HTML5UP|
 
-- Prepare
+- **Prepare**
 
 To submit the write ups and prototype, follow this seperate article.
 
 To prepare for the showcase, use your creativity and think of what you want to have at your booth. Do you want your phone to show your app mockup? etc. If there's anything you need to borrow let us know on the Gitter channel. We will printing what you submit in the written section in a nice looking banner, so don't worry. You will have a table to place your items.
 
-- Pitch
+- **Pitch**
 
 On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final breifing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
 
