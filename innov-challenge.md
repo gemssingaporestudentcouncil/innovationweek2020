@@ -20,8 +20,7 @@ TLDR; Participants should create an idea that can solve a Global Goal listed bel
 
 <div class="mermaid">
     stateDiagram
-    
-        [*] --> Brainstorm
+[*] --> Brainstorm
         Brainstorm --> Build
         Build --> Prepare
         Prepare --> Pitch
