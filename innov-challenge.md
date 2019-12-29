@@ -69,15 +69,7 @@ Here are the steps to complete the challenge.
 
 4. Now select one idea from your brainstorm. To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
 
-5. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). Below are some tools you can use to make your product. If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
-
-|Type|Product|
-| ------------- |-------------|
-|App|AdobeXD or Figma|
-|Desktop App|Python (Show your functionality in a CLI form)|
-|Hardware|Fusion360|
-|Hardware|Ardunio|
-|Website|Templates from HTML5UP|
+5. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
 
 6. Write a 250 word summary. You summary should inculde what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
 
