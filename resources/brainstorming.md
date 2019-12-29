@@ -1,0 +1,1 @@
+A good resource to help with brainstorming is [Ideo's guide](https://www.ideou.com/pages/brainstorming). To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
