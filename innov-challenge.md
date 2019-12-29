@@ -61,29 +61,31 @@ Above are the key four stages of the competition.
 
 Here are the steps to complete the challenge.
 
-1. Attend the Introduction Meeting at the Innovation Suite on Friday the 7th of Feb.
+1. Join the [Gitter Channel](https://gitter.im/gems-innovation-week/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-2. Choose a Global Issue from the [List Below](Global-Issues).
+2. Attend the Introduction Meeting at the Innovation Suite on Friday the 7th of Feb.
 
-3. Brainstorm ideas for a product that could help solve this issue.A good resource to help with brainstorming is [Ideo's guide](https://www.ideou.com/pages/brainstorming).
+3. Choose a Global Issue from the [List Below](Global-Issues).
 
-4. Now select one idea from your brainstorm. To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
+4. Brainstorm ideas for a product that could help solve this issue.A good resource to help with brainstorming is [Ideo's guide](https://www.ideou.com/pages/brainstorming).
 
-5. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
+5. Now select one idea from your brainstorm. To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
 
-6. Write a 250 word summary. You summary should inculde what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
+6. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
 
-7. Write a 500 word writeup on how your idea solves the problem and it's impact. You need to show us the legitmacy of your claim that it will solve the issue so use stats and other research.
+7. Write a 250 word summary. You summary should inculde what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
 
-8. Design a logo that is 500px x 500px for your project. Save it as a .png.
+8. Write a 500 word writeup on how your idea solves the problem and it's impact. You need to show us the legitmacy of your claim that it will solve the issue so use stats and other research.
 
-9. You now need to submit your project. [Follow these instructions](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/how-to-submit.md). If you need further help contact us on Gitter or visit any support session happening every lunch time and after school at the Innovation Suite from Monday to Thursday. 
+9. Design a logo that is 500px x 500px for your project. Save it as a .png.
 
-10. To prepare for the showcase meet up with your team and create a pitch that will tell the judge: what your idea is, show them your prototype and the impact of your idea. It should have similar content to your two pieces of writing. 
+10. You now need to submit your project. [Follow these instructions](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/how-to-submit.md). If you need further help contact us on Gitter or visit any support session happening every lunch time and after school at the Innovation Suite from Monday to Thursday. 
 
-11. Prepare materials to display at the showcase. You must display your prototype and choose anything else to bring such as brochures. If there's anything you need to borrow let us know on the Gitter channel. We will printing what you submit in the written section in a nice looking banner, so don't worry. You will have a table to place your items.
+11. To prepare for the showcase meet up with your team and create a pitch that will tell the judge: what your idea is, show them your prototype and the impact of your idea. It should have similar content to your two pieces of writing. 
 
-12. On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final breifing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
+12. Prepare materials to display at the showcase. You must display your prototype and choose anything else to bring such as brochures. If there's anything you need to borrow let us know on the Gitter channel. We will printing what you submit in the written section in a nice looking banner, so don't worry. You will have a table to place your items.
+
+13. On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final breifing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
 
 ### Global Issues
 
