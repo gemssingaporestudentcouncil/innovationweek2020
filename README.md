@@ -12,5 +12,5 @@ We use the [Citizen Code of Conduct](https://github.com/gemssingaporestudentcoun
 
 ## Contributing
 
-View our guidelines [Here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTING.md).
+View our guidelines [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTING.md).
 
