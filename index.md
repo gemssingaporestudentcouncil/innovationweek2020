@@ -77,6 +77,19 @@ The full team is online at the Gitter Chat:
 
 We have many students, teachers and parents volunteering to help out during Innovation week. We also have all the wonderful student council members who are assisting in running the week. If you run into any volunteers please do thank them as they have put in a lot of effort to help participants. You can see all the volunteers [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CONTRIBUTERS.md).
 
+### Others
+
+1. [Volunteering](volunteering)
+
+2. [GitHub Repo](https://github.com/gemssingaporestudentcouncil/innovationweek2020)
+
+3. [Code of Conduct](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/CODE_OF_CONDUCT.md)
+
+4. [License](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/LICENSE)
+
+5. [Student Council Main Site](https://gemssingaporestudentcouncil.github.io)
+
+
 
   
 
