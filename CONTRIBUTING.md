@@ -22,7 +22,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 > **Note:** Please don't file an issue to ask a simple question. You'll get faster results by using the chat below.
 
-[![Join the chat at https://gitter.im/gwa-sg-innovation-week/community](https://badges.gitter.im/gwa-sg-innovation-week/community.svg)](https://gitter.im/gwa-sg-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/badge/Chat%20On-Gitter-red)](https://gitter.im/gems-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## What should I know before I get started?
 
