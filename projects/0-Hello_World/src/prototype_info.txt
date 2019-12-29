@@ -1,8 +1,8 @@
-**Software or Programming Langague Used:** Python
+Software or Programming Langague Used: Python
 
-**Download Link:** https://www.python.org/downloads/
+Download Link: https://www.python.org/downloads/
 
-**Install Instructions:** 
+Install Instructions: 
 
 1. Download our python script in /src
 2. With python installed open the script and run it
