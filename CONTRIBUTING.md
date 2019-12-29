@@ -34,7 +34,7 @@ You can learn general details about GEMS Singapore Innovation Week 2020 on [our 
 
 This section guides you through submitting a bug report for GEMS Singapore Innovation Week's website. Following these guidelines helps us understand your report, reproduce the behavior, and find fix your issue.
 
-When you are creating a bug report, please fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md), the information it asks for helps us resolve issues faster.
+When you are creating a bug report, please fill out [the required template](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/.github/ISSUE_TEMPLATE/bug-report.md), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
@@ -42,7 +42,7 @@ When you are creating a bug report, please fill out [the required template](http
 
 This section guides you through submitting an enhancement suggestion for GEMS Singapore's Innovation Week, including completely new events and minor improvements to the existing schedule. Following these guidelines helps maintainers and the community understand your suggestion and potentially implement it.
 
-Before creating enhancement suggestions, please fill in [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md), with as many details as possible. Innovation Week is being run by volunteers, if you could volunteer to bring this request to life or know someone who could please indicate this.
+Before creating enhancement suggestions, please fill in [the template](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/.github/ISSUE_TEMPLATE/feature_request.md), with as many details as possible. Innovation Week is being run by volunteers, if you could volunteer to bring this request to life or know someone who could please indicate this.
 
 #### Before Submitting An Enhancement Suggestion
 
@@ -52,4 +52,8 @@ Before creating enhancement suggestions, please fill in [the template](https://g
 
 ## Pull Requests
 
-Info Coming Soon
+### Improving Our GitHub Repo
+
+This section guides you through submitting a pull request to improve GEMS Singapore Innovation Week's GitHub Repo. Following these guidelines helps maintainers and the community understand your pull request and review it.
+
+Before creating a pull request, please fill in [the template](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/.github/PULL_REQUEST_TEMPLATE/code_improvement_template.md), with as many details as possible. Innovation Week is being run by volunteers, so we thank you for your help!
