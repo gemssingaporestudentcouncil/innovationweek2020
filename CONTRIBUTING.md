@@ -56,4 +56,6 @@ Before creating enhancement suggestions, please fill in [the template](https://g
 
 This section guides you through submitting a pull request to improve GEMS Singapore Innovation Week's GitHub Repo. Following these guidelines helps maintainers and the community understand your pull request and review it.
 
-Before creating a pull request, please fill in [the template](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/.github/PULL_REQUEST_TEMPLATE/code_improvement_template.md), with as many details as possible. Innovation Week is being run by volunteers, so we thank you for your help!
+### Submitting Final Project
+
+We will have a seperate tutorial up soon.
