@@ -58,4 +58,8 @@ This section guides you through submitting a pull request to improve GEMS Singap
 
 ### Submitting Final Project
 
-We will have a seperate tutorial up soon.
+Please [view this page.](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/how-to-submit.md)
+
+## Volunteering
+
+Please [view this page.](https://gemssingaporestudentcouncil.github.io/innovationweek2020/volunteering/)
