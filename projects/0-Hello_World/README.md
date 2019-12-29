@@ -2,6 +2,8 @@
 
 **Team ID Number**: 0
 
+**Global Issue**: 0
+
 
 **Team Member 1's Name**: Sam Poder
 
