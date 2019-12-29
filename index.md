@@ -38,7 +38,7 @@ This year's Innovation Week is being fully organized by the students of student 
 
 The full team is online at the Gitter Chat:
 
-[![Join the chat at https://gitter.im/gwa-sg-innovation-week/community](https://badges.gitter.im/gwa-sg-innovation-week/community.svg)](https://gitter.im/gwa-sg-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/badge/Chat%20On-Gitter-red)](https://gitter.im/gems-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 #### **The Core Team**
 
