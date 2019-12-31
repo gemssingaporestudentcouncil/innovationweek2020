@@ -12,7 +12,9 @@ GEMS Singapore Student Council is proud to be hosting the school's first Innovat
 
 3. [Debate](#debate)
 
-4. [The Team](#the-team)
+4. [I Love Free Software Day](#i-love-free-software-day)
+
+5. [The Team](#the-team)
 
 ### Innovation Challenge
 
@@ -31,6 +33,12 @@ We have multiple experienced industry professionals as well as teachers and stud
 A rapidly devolping field like technology is sure to cause controvsy. The school's prestigious debate who have won awards on the international stage will facing off against your teachers to debate a topic in the world of technology. You can watch the debate at the innovation suite on Friday the 14th of February. 
 
 If you would like to join the debate team get in contact with Ms. Carte. 
+
+### I Love Free Software Day
+
+Free Software drives a huge number of devices in our everyday lives. It ensures our freedom, our security, civil rights, and privacy. It enables everyone to participate in a fair society. I Love Free Software Day, organized by Free Software Foundation Europe, spreads awareness and appreciation for Free Software. It is the perfect day to say **thank you** to the contributors of the various Free Software we love: developers, translators, designers, testers, or documentation writers, of huge softwares or smaller projects. All of them work to keep the Free Software ecosystem which we enjoy every day healthy, vibrant, and growing.
+
+So join us on the 14 of February and the final day of Innovation Week as we celebarte in collaboration with Free Software Foundation Europe all the free software in our world. Throughout the week we will also discussing the importance of Free Software and you can [learn more here](https://fsfe.org/campaigns/ilovefs/index.en.html).
 
 ### The Team
 
