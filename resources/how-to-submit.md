@@ -50,20 +50,20 @@ Your outcome should look like this:
 
 7. Scroll Down to The Bottom and Click Commit New File
 
-8. Create another new file inside your folder and name is summary.txt. Fill in the file with a 250 word summary of your project. Inculde: what your idea is (main part), how you made your prototype, how you would make the real thing.
+8. Create another new file inside your folder and name is summary.txt. Fill in the file with a 250 word summary of your project. Include: what your idea is (main part), how you made your prototype, how you would make the real thing.
 
-9. Create another new file inside your folder and name is impact.txt. Fill in the file with a 500 word writeup on how your product solves your problem. Inculde research and stats to do well.
+9. Create another new file inside your folder and name is impact.txt. Fill in the file with a 500 word writeup on how your product solves your problem. Include research and stats to do well.
 
 10. Drag your logo into the folder and upload it. The file name should be logo.png and be sized 500px x 500px use [https://picresize.com](https://picresize.com) to resize your image if needed.
 
-10. Create another new file inside your folder and in the name box type src/protoype_info.txt. See below.
+10. Create another new file inside your folder and in the name box type src/prototype_info.txt. See below.
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.27.45%20AM.png?raw=true)
 
 11. Paste the following into your file and then fill it out
 
 ```
-Software or Programming Langague Used: [Fill In]
+Software or Programming Language Used: [Fill In]
 
 Download Link: [Fill In]
 
@@ -79,11 +79,11 @@ Your outcome should look like this:
 
 12. Scroll Down to The Bottom and Click Commit New File
 
-13. Drag and drop all your files related to the prototype into the src folder. After they have uploaded click commit changes, it is recommended you wait a minute before clicking commit changes to avoid a server crash. Make sure they are uploaded into the same folder as protoype_info.txt.
+13. Drag and drop all your files related to the prototype into the src folder. After they have uploaded click commit changes, it is recommended you wait a minute before clicking commit changes to avoid a server crash. Make sure they are uploaded into the same folder as prototype_info.txt.
 
 14. Make sure your folder is the same structure as our example [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/tree/master/projects/0-Hello_World)
 
-15. If so, well done! Now let's add your work to the main repoo. Click the pull request button that is positioned in the same area as circled below.
+15. If so, well done! Now let's add your work to the main repo. Click the pull request button that is positioned in the same area as circled below.
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.32.22%20AM.png?raw=true)
 
@@ -103,6 +103,6 @@ Your outcome should look like this:
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.34.14%20AM.png?raw=true)
 
-19. If you have checked off all the boxs scroll down and click Create Pull Request. Your finished well done!
+19. If you have checked off all the boxes scroll down and click Create Pull Request. Your finished well done!
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/pr.png?raw=true)

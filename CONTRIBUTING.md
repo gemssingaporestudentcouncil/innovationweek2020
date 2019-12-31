@@ -16,7 +16,7 @@ The following is a set of guidelines for contributing to Innovation Week 2020, w
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to us in our Gitter channel or to any member of the [core team](https://gemssingaporestudentcouncil.github.io/innovationweek2020/#the-team).
+This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to us in our Gitter channel or to any member of the [core team](https://gemssingaporestudentcouncil.github.io/innovationweek2020/#the-team).
 
 ## I don't want to read this whole thing I just have a question!!!
 
@@ -26,13 +26,13 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 ## What should I know before I get started?
 
-You can learn general details about GEMS Singapore Innovation Week 2020 on [our website](https://gemssingaporestudentcouncil.github.io/innovationweek2020/). Please be familiar with the details if you need any clarifaction contact us at our Gitter channel linked above.
+You can learn general details about GEMS Singapore Innovation Week 2020 on [our website](https://gemssingaporestudentcouncil.github.io/innovationweek2020/). Please be familiar with the details if you need any clarification contact us at our Gitter channel linked above.
 
 ## How Can I Contribute?
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for GEMS Singapore Innovation Week's website. Following these guidelines helps us understand your report, reproduce the behavior, and find fix your issue.
+This section guides you through submitting a bug report for GEMS Singapore Innovation Week's website. Following these guidelines helps us understand your report, reproduce the behaviour, and find fix your issue.
 
 When you are creating a bug report, please fill out [the required template](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/.github/ISSUE_TEMPLATE/bug-report.md), the information it asks for helps us resolve issues faster.
 
@@ -46,8 +46,8 @@ Before creating enhancement suggestions, please fill in [the template](https://g
 
 #### Before Submitting An Enhancement Suggestion
 
-* **Breifly chat with us on Gitter about your idea**
-* **Determine whether the enhancement is feasable.**
+* **Briefly chat with us on Gitter about your idea**
+* **Determine whether the enhancement is feasible.**
 * **Perform a [search here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/issues)** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 ## Pull Requests

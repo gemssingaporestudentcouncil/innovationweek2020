@@ -6,7 +6,7 @@ GEMS Singapore Innovation Week 2020 follows the Citizen Code of Conduct.
 
 A primary goal of GEMS Singapore Innovation Week 2020 is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
 
 We invite all those who participate in GEMS Singapore Innovation Week 2020 to help us create safe and positive experiences for everyone.
 
@@ -18,20 +18,20 @@ Communities mirror the societies in which they exist and positive action is esse
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
+## 3. Expected Behaviour
 
-The following behaviors are expected and requested of all community members:
+The following behaviours are expected and requested of all community members:
 
  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
  * Exercise consideration and respect in your speech and actions.
  * Attempt collaboration before conflict.
- * Refrain from demeaning, discriminatory, or harassing behavior and speech.
+ * Refrain from demeaning, discriminatory, or harassing behaviour and speech.
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Unacceptable Behavior
+## 4. Unacceptable Behaviour
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviours are considered harassment and are unacceptable within our community:
 
  * Violence, threats of violence or violent language directed against another person.
  * Discriminatory jokes and language.
@@ -43,21 +43,21 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Unwelcome sexual attention.
  * Sustained disruption of community events, including talks and presentations.
  * Disrespecting other's projects
- * All behavouirs outlined as unacceptable in the [GEMS Singapore Student Handbook Page 22 - 34](https://drive.google.com/open?id=13PRRf-RAr4bLNA_gzZk3-K0p2l_R3I0p&authuser=1)
- * Advocating for, or encouraging, any of the above behavior.
+ * All behaviours outlined as unacceptable in the [GEMS Singapore Student Handbook Page 22 - 34](https://drive.google.com/open?id=13PRRf-RAr4bLNA_gzZk3-K0p2l_R3I0p&authuser=1)
+ * Advocating for, or encouraging, any of the above behaviour.
 
 
-## 5. Consequences of Unacceptable Behavior
+## 5. Consequences of Unacceptable Behaviour
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
+Unacceptable behaviour from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Anyone asked to stop unacceptable behaviour is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behaviour, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a nearby teacher as soon as possible.
+If you are subject to or witness unacceptable behaviour, or have any other concerns, please notify a nearby teacher as soon as possible.
 
 ## 7. Addressing Grievances
 
@@ -67,7 +67,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 We expect all community participants to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 
-This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
+This code of conduct and its related procedures also applies to unacceptable behaviour occurring outside the scope of community activities when such behaviour has the potential to adversely affect the safety and well-being of community members.
 
 ## 9. Contact info
 
