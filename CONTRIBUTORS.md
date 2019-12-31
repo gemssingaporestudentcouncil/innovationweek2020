@@ -10,7 +10,7 @@ Innovation Week Contributors & Volunteers
 ### Other Members of Core Team
 * **Diego Paniagua Silva**
 
-* **Anjali Grillo**
+* **[Anjali Grillo](https://github.com/anjaligrillo)**
 
 ### Volunteers
 
