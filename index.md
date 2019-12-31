@@ -2,7 +2,7 @@
 layout: page
 ---
 
-GEMS Singapore Student Council is proud to be hosting the school's first Innovation Week from February 5th to February 14th. We will be having a variety of events throughout the week (more announcements coming soon) for students to showcase their talents as well as devolp new ones. They're will be an event for everyone! Explore them all below.
+GEMS Singapore Student Council is proud to be hosting the school's first Innovation Week from February 5th to February 14th. We will be having a variety of events throughout the week (more announcements coming soon) for students to showcase their talents as well as develop new ones. They're will be an event for everyone! Explore them all below.
 
 **Table of Contents**
 
@@ -24,21 +24,21 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 ### Workshops
 
-We have multiple experienced industry professionals as well as teachers and students volunteering to teach you new skills and devolp your preexisting ones. We have workshops covering everything from Google Sheets to Flight Simulators to Python and much more. Watch this space for a full list coming soon.
+We have multiple experienced industry professionals as well as teachers and students volunteering to teach you new skills and develop your preexisting ones. We have workshops covering everything from Google Sheets to Flight Simulators to Python and much more. Watch this space for a full list coming soon.
 
 [Learn more here.](workshops)
 
 ### Debate
 
-A rapidly devolping field like technology is sure to cause controvsy. The school's prestigious debate who have won awards on the international stage will facing off against your teachers to debate a topic in the world of technology. You can watch the debate at the innovation suite on Friday the 14th of February. 
+A rapidly developing field like technology is sure to cause controversy. The school's prestigious debate who have won awards on the international stage will facing off against your teachers to debate a topic in the world of technology. You can watch the debate at the innovation suite on Friday the 14th of February. 
 
 If you would like to join the debate team get in contact with Ms. Carte. 
 
 ### I Love Free Software Day
 
-Free Software drives a huge number of devices in our everyday lives. It ensures our freedom, our security, civil rights, and privacy. It enables everyone to participate in a fair society. I Love Free Software Day, organized by Free Software Foundation Europe, spreads awareness and appreciation for Free Software. It is the perfect day to say **thank you** to the contributors of the various Free Software we love: developers, translators, designers, testers, or documentation writers, of huge softwares or smaller projects. All of them work to keep the Free Software ecosystem which we enjoy every day healthy, vibrant, and growing.
+Free Software drives a huge number of devices in our everyday lives. It ensures our freedom, our security, civil rights, and privacy. It enables everyone to participate in a fair society. I Love Free Software Day, organized by Free Software Foundation Europe, spreads awareness and appreciation for Free Software. It is the perfect day to say **thank you** to the contributors of the various Free Software we love: developers, translators, designers, testers, or documentation writers, of huge software or smaller projects. All of them work to keep the Free Software ecosystem which we enjoy every day healthy, vibrant, and growing.
 
-So join us on the 14 of February and the final day of Innovation Week as we celebarte in collaboration with Free Software Foundation Europe all the free software in our world. Throughout the week we will also discussing the importance of Free Software and you can [learn more here](https://fsfe.org/campaigns/ilovefs/index.en.html).
+So join us on the 14 of February and the final day of Innovation Week as we celebrate in collaboration with Free Software Foundation Europe all the free software in our world. Throughout the week we will also discussing the importance of Free Software and you can [learn more here](https://fsfe.org/campaigns/ilovefs/index.en.html).
 
 ### The Team
 

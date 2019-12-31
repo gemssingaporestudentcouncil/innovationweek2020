@@ -71,11 +71,11 @@ Here are the steps to complete the challenge.
 
 5. Now select one idea from your brainstorm. To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
 
-6. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guidline is your prototype can either work or look good don't worry about acheiving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionallity, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demostrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
+6. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guideline is your prototype can either work or look good don't worry about achieving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionality, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demonstrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
 
-7. Write a 250 word summary. You summary should inculde what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
+7. Write a 250 word summary. You summary should include what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
 
-8. Write a 500 word writeup on how your idea solves the problem and it's impact. You need to show us the legitmacy of your claim that it will solve the issue so use stats and other research.
+8. Write a 500 word writeup on how your idea solves the problem and it's impact. You need to show us the legitimacy of your claim that it will solve the issue so use stats and other research.
 
 9. Design a logo that is 500px x 500px for your project. Save it as a .png.
 
@@ -85,7 +85,7 @@ Here are the steps to complete the challenge.
 
 12. Prepare materials to display at the showcase. You must display your prototype and choose anything else to bring such as brochures. If there's anything you need to borrow let us know on the Gitter channel. We will printing what you submit in the written section in a nice looking banner, so don't worry. You will have a table to place your items.
 
-13. On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final breifing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
+13. On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final briefing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
 
 ### Global Issues
 
