@@ -70,13 +70,13 @@ The full team is online at the Gitter Chat:
       <td>Gitter Chat</td>
       <td><a href="https://gitter.im/sampoder">@sampoder</a></td>
       <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td><a href="https://gitter.im/anjaligrillo">@anjaligrillo</a></td>
     </tr>
     <tr>
       <td>Github Profile</td>
       <td><a href="https://github.com/sampoder">@sampoder</a></td>
       <td>Coming Soon</td>
-      <td>Coming Soon</td>
+      <td><a href="https://github.com/anjaligrillo">@anjaligrillo</a></td>
     </tr>
   </tbody>
 </table>
