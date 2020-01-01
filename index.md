@@ -40,6 +40,18 @@ Free Software drives a huge number of devices in our everyday lives. It ensures 
 
 So join us on the 14 of February and the final day of Innovation Week as we celebrate in collaboration with Free Software Foundation Europe all the free software in our world. Throughout the week we will also discussing the importance of Free Software and you can [learn more here](https://fsfe.org/campaigns/ilovefs/index.en.html).
 
+### Minecraft Build Battle
+
+On Wednesday the 12th we invite you to the _____ at Lunch to express your creativity in blocks. We will be following the traditional form of Minecraft Build Battles.
+
+More Details to Come.
+
+### Hacker 254's Puzzle
+
+Ever heard of Cicada 3301? Well we invite you to take on a similar digital quest this Innovation Week. Can you solve the Puzzle?
+
+More Details to Come.
+
 ### The Team
 
 This year's Innovation Week is being fully organized by the students of student council.

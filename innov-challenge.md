@@ -87,6 +87,10 @@ Here are the steps to complete the challenge.
 
 13. On the Friday the 14th Feb, we will start preparing at 1:00pm for the presentation. You will need to be there by 1:45pm. We will give a final briefing and help you set up. PLEASE BE PREPARED! Also, let us know if you need help or have a problem ASAP. 
 
-### Global Issues
+### Global Goals
 
-Coming Soon
+We encourage you to choose a Global Goal from the UN's list below. They are quite broad so we are sure your goal will fit in. 
+
+<img src="https://gemssingaporestudentcouncil.github.io/innovationweek2020/assets/images/the-global-goals-grid-color.svg" width="100%">
+
+[Learn more here.](https://www.globalgoals.org)
