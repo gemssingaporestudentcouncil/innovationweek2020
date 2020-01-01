@@ -14,7 +14,11 @@ GEMS Singapore Student Council is proud to be hosting the school's first Innovat
 
 4. [I Love Free Software Day](#i-love-free-software-day)
 
-5. [The Team](#the-team)
+5. [Minecraft Build Battle](#minecraft-build-battle)
+
+6. [Hacker 254's Puzzle](#hacker-254s-puzzle)
+
+7. [The Team](#the-team)
 
 ### Innovation Challenge
 
@@ -48,7 +52,7 @@ More Details to Come.
 
 ### Hacker 254's Puzzle
 
-Ever heard of Cicada 3301? Well we invite you to take on a similar digital quest this Innovation Week. Can you solve the Puzzle?
+Ever heard of Cicada 3301? Well we invite you to take on a similar digital quest this Innovation Week. Can you solve Hacker 254's puzzle or will you fumble at the first step?
 
 More Details to Come.
 
