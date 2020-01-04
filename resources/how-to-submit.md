@@ -7,7 +7,7 @@ To submit your final project you will need a GitHub Account. Please sign up for 
 
 3. If your team is already listed then click Join next to it. Otherwise create a new team, please ensure your team name is something you have all agreed on. This can not be changed. Make sure once you've made a team that your other teammates join.
 
-4. You will reach this screen (wait a little). Check your email you signed up you will be invited to join the
+4. You will reach this screen (wait a little). Check your email you signed up with you will be invited to join the
 @gemssingaporestudentcouncil organization. Accept the invite then open the your team's GitHub Repo.
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.14.02%20AM.png?raw=true)
