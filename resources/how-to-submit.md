@@ -1,46 +1,41 @@
 To submit your final project you will need a GitHub Account. Please sign up for one [here](https://github.com/join)
 
-1. Visit [this URL](https://github.com/gemssingaporestudentcouncil/innovationweek2020/fork). Click your username.
+1. Visit [this URL](https://classroom.github.com/g/olVdmXxo). Sign In / Up for Github and then authorize application if prompted.
 2. You should see something like this
 
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.13.46%20AM.png "Your new forked Repo")
+![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202020-01-03%20at%2012.02.30%20PM.png?raw=true)
 
-3. Open the folder named projects
+3. If your team is already listed then click Join next to it. Otherwise create a new team, please ensure your team name is something you have all agreed on. This can not be changed. Make sure once you've made a team that your other teammates join.
 
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.13.46%20AM%20Edited.png?raw=true)
-
-4. Click new file in the right hand corner of the screen.
+4. You will reach this screen (wait a little). Check your email you signed up you will be invited to join the
+@gemssingaporestudentcouncil organization. Accept the invite then open the your team's GitHub Repo.
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.14.02%20AM.png?raw=true)
 
-5. In the name your file type [Team_Id]-[Team_Name]/README.md. Filling in the Team_ID and Team_Name with your team's id number and name. See below.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.15.25%20AM.png?raw=true)
-
-6. Paste the following into your file and then fill it out
+5. Open the README.md file. Is should look like below, edit it to include all the details.
 
 ```
 
-**Team Name**: [Fill In]
+**Team Name**: 
 
-**Team ID Number**: [Fill In]
+**Team ID Number**: 
 
-**Global Issue**: [Fill In]
-
-
-**Team Member 1's Name**: [Fill In]
-
-**Team Member 1's Class**: [Fill In]
+**Global Issue**: 
 
 
-**Team Member 2's Name**: [Fill In]
+**Team Member 1's Name**: 
 
-**Team Member 2's Class**: 8.1
+**Team Member 1's Class**: 
 
 
-**Team Member 3's Name**: [Fill In]
+**Team Member 2's Name**: 
 
-**Team Member 3's Class**: [Fill In]
+**Team Member 2's Class**: 
+
+
+**Team Member 3's Name**: 
+
+**Team Member 3's Class**: 
 
 ```
 
@@ -48,19 +43,13 @@ Your outcome should look like this:
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.21.55%20AM.png?raw=true)
 
-7. Scroll Down to The Bottom and Click Commit New File
+6. Open summary.txt. Edit the file with a 250 word summary of your project. Include: what your idea is (main part), how you made your prototype, how you would make the real thing.
 
-8. Create another new file inside your folder and name is summary.txt. Fill in the file with a 250 word summary of your project. Include: what your idea is (main part), how you made your prototype, how you would make the real thing.
+7. Open impact.txt. Edit the file with a 500 word writeup on how your product solves your problem. Include research and stats to do well.
 
-9. Create another new file inside your folder and name is impact.txt. Fill in the file with a 500 word writeup on how your product solves your problem. Include research and stats to do well.
+8. Drag your logo into the repo and upload it. The file name should be logo.png and be sized 500px x 500px use [https://picresize.com](https://picresize.com) to resize your image if needed.
 
-10. Drag your logo into the folder and upload it. The file name should be logo.png and be sized 500px x 500px use [https://picresize.com](https://picresize.com) to resize your image if needed.
-
-10. Create another new file inside your folder and in the name box type src/prototype_info.txt. See below.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.27.45%20AM.png?raw=true)
-
-11. Paste the following into your file and then fill it out
+9. Open the src folder and click prototype_info.md. Then fill it out.
 
 ```
 Software or Programming Language Used: [Fill In]
@@ -77,32 +66,8 @@ Your outcome should look like this:
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%2011.00.20%20AM.png?raw=true)
 
-12. Scroll Down to The Bottom and Click Commit New File
+10. Drag and drop all your files related to the prototype into the src folder. After they have uploaded click commit changes, it is recommended you wait a minute before clicking commit changes to avoid a server crash. Make sure they are uploaded into the same folder as prototype_info.txt.
 
-13. Drag and drop all your files related to the prototype into the src folder. After they have uploaded click commit changes, it is recommended you wait a minute before clicking commit changes to avoid a server crash. Make sure they are uploaded into the same folder as prototype_info.txt.
+11. Make sure your repo is the same structure as our example [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/tree/master/projects/0-Hello_World)
 
-14. Make sure your folder is the same structure as our example [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/tree/master/projects/0-Hello_World)
-
-15. If so, well done! Now let's add your work to the main repo. Click the pull request button that is positioned in the same area as circled below.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.32.22%20AM.png?raw=true)
-
-16. Click create pull request.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.32.46%20AM.png?raw=true)
-
-17. Title your pull request like below replace 0 with your team id number and Hello_World with your team name.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.33.56%20AM.png?raw=true)
-
-18. Delete the top part so your body text looks like below.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.34.06%20AM.png?raw=true)
-
-18. Check off every part of the check list by replacing the [ ] with [x]. See below.
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.34.14%20AM.png?raw=true)
-
-19. If you have checked off all the boxes scroll down and click Create Pull Request. Your finished well done!
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/pr.png?raw=true)
+12. If so, well done! You are complete. Once the deadline passes you will no longer be able to edit and we will review your work.
