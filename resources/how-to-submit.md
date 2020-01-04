@@ -68,6 +68,4 @@ Your outcome should look like this:
 
 10. Drag and drop all your files related to the prototype into the src folder. After they have uploaded click commit changes, it is recommended you wait a minute before clicking commit changes to avoid a server crash. Make sure they are uploaded into the same folder as prototype_info.txt.
 
-11. Make sure your repo is the same structure as our example [here](https://github.com/gemssingaporestudentcouncil/innovationweek2020/tree/master/projects/0-Hello_World)
-
-12. If so, well done! You are complete. Once the deadline passes you will no longer be able to edit and we will review your work.
+11. Well done! You are complete. Once the deadline passes you will no longer be able to edit and we will review your work.
