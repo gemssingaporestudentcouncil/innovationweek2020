@@ -91,7 +91,7 @@ The full team is online at the Gitter Chat:
     <tr>
       <td>Github Profile</td>
       <td><a href="https://github.com/sampoder">@sampoder</a></td>
-      <td>Coming Soon</td>
+      <td><a href="https://github.com/OrangeCat16">@OrangeCat16</a></td>
       <td><a href="https://github.com/anjaligrillo">@anjaligrillo</a></td>
     </tr>
   </tbody>
