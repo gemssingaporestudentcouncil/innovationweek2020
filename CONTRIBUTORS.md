@@ -8,7 +8,7 @@ Innovation Week Contributors & Volunteers
 **[Full contributors list](https://github.com/gemssingaporestudentcouncil/innovationweek2020/contributors).**
 
 ### Other Members of Core Team
-* **Diego Paniagua Silva**
+* **[Diego Paniagua Silva](https://github.com/OrangeCat16)**
 
 * **[Anjali Grillo](https://github.com/anjaligrillo)**
 
