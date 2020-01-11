@@ -85,7 +85,7 @@ The full team is online at the Gitter Chat:
     <tr>
       <td>Gitter Chat</td>
       <td><a href="https://gitter.im/sampoder">@sampoder</a></td>
-      <td>Coming Soon</td>
+      <td><a href="https://gitter.im/OrangeCat16">@OrangeCat16</a></td>
       <td><a href="https://gitter.im/anjaligrillo">@anjaligrillo</a></td>
     </tr>
     <tr>
