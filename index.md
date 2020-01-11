@@ -46,7 +46,7 @@ So join us on the 14 of February and the final day of Innovation Week as we cele
 
 ### Minecraft Build Battle
 
-On Wednesday the 12th we invite you to the _____ at Lunch to express your creativity in blocks. We will be following the traditional form of Minecraft Build Battles.
+On Wednesday the 12th we invite you to the Innovation Suite at Lunch to express your creativity in blocks. We will be following the traditional form of Minecraft Build Battles.
 
 More Details to Come.
 
