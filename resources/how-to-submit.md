@@ -1,6 +1,6 @@
 To submit your final project you will need a GitHub Account. Please sign up for one [here](https://github.com/join)
 
-1. Visit [this URL](https://classroom.github.com/g/olVdmXxo). Sign In / Up for Github and then authorize application if prompted.
+1. Visit [this URL](https://classroom.github.com/group-assignment-invitations/60f30c815917f09bc633c5a353c577e0/accept). Sign In / Up for Github and then authorize application if prompted.
 2. You should see something like this
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202020-01-03%20at%2012.02.30%20PM.png?raw=true)
