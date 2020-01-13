@@ -14,7 +14,16 @@ Innovation Week Contributors & Volunteers
 
 ### Volunteers
 
-* **Coming Soon**
+* **Odin Schaefer**
+* **Avanna Harvey**
+* **Mr. Afonso**
+* **Karen Okabe**
+* **Terry Yin**
+* **Dr. Ong**
+* **Georgia Mutch**
+* **Mr. Heard**
+* **Yuan Tengwei**
+* **Mr. Gutierrez**
 
 ### Student Council Members
 
