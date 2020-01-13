@@ -1,6 +1,7 @@
 To submit your final project you will need a GitHub Account. Please sign up for one [here](https://github.com/join)
 
 1. Visit [this URL](https://github.com/gemssingaporestudentcouncil/innovationweek2020/fork). Click your username.
+
 2. You should see something like this
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.13.46%20AM.png "Your new forked Repo")
