@@ -6,6 +6,14 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 **Signup Coming Soon**
 
+### What can I win?
+
+**Grand Prize:** SGD 250
+
+**Best Prototype Prize:** SGD 60
+
+### What do I have to do?
+
 The schedule for the Innovation Week is as follows:
 
 <table border="1" cellpadding="100">
@@ -50,8 +58,6 @@ The schedule for the Innovation Week is as follows:
     </tr>
   </tbody>
 </table>
-
-### What do I have to do?
 
 TLDR; Participants should create an idea that can solve a Global Goal listed below. They should then create a prototype that represents the solution (eg. Mobile App Mockup or 3D Render of Product). They should then create a quick write up involving a summary of the project and how it solves the Global Issue. Based on this, they will present their work at a fair. The winner will be selected based on their pitch as well as the quality of their prototype.
 
