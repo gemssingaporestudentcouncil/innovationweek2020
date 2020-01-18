@@ -16,21 +16,24 @@ GEMS Singapore Student Council is proud to be hosting the school's first Innovat
 
 5. [Minecraft Build Battle](#minecraft-build-battle)
 
-6. [Hacker 254's Puzzle](#hacker-254s-puzzle)
+6. [Paper Plane Launching Competition](#paper-plane-launching-competition)
 
-7. [The Team](#the-team)
+7. [Hacker 254's Puzzle](#hacker-254s-puzzle)
+
+8. [The Team](#the-team)
 
 ### Innovation Challenge
 
 The Innovation Challenge is your chance to show your creativity and skills. You'll be tasked with creating an idea that will solve a global issue, build a basic prototype and then pitch it. It may sound daunting but no need to worry you will be guided through the process by accomplished mentors who have done it before. Additionally, the workshops happening throughout the week will help you pick up the technical skills needed and an exclusive pitching workshop just for competitors will give you the perfect pitch to win.
 
 [Learn more here.](innov-challenge)
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSc6epwhZ49bS9QFi9JPUy8Ln6j1BdFiQ8clD48o8OTzWZ9UTA/viewform)
 
 ### Workshops
 
-We have multiple experienced industry professionals as well as teachers and students volunteering to teach you new skills and develop your preexisting ones. We have workshops covering everything from Google Sheets to Flight Simulators to Python and much more. Watch this space for a full list coming soon.
+We have multiple experienced industry professionals as well as teachers and students volunteering to teach you new skills and develop your preexisting ones. We have workshops covering everything from Google Sheets to Flight Simulators to Python and much more. Sign up below with a full list on the form.
 
-[Learn more here.](workshops)
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLScNiiE4dH41G8EJoj_bjk5xQzbFDe8o4WsYbSiqeuYmZLfCIQ/viewform)
 
 ### Debate
 
@@ -48,7 +51,13 @@ So join us on the 14 of February and the final day of Innovation Week as we cele
 
 On Wednesday the 12th we invite you to the Innovation Suite at Lunch to express your creativity in blocks. We will be following the traditional form of Minecraft Build Battles.
 
-More Details to Come.
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSfMfB28fLfAGHAqk_OdPofUrJ8ee3qHfs6qlfU-LBKXhorYmg/viewform)
+
+### Paper Plane Launching Competition
+
+We are challenging you to create a Paper Plane Launcher! You will be guided through the process and don't need any experience in engineering. You will be need to attend an info section on Tuesday the 11th of February. The competition will be on Friday the 14th of February. You can also watch the competition on Friday!
+
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSeroeWH1fbBWxvWOZFvRPv8sg3Oe9iPOX8xo5UMv3yM0040Hw/viewform)
 
 ### Hacker 254's Puzzle
 
