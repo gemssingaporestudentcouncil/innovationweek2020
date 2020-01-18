@@ -4,7 +4,7 @@ layout: page
 
 The Innovation Challenge is your chance to show your creativity and skills. You'll be tasked with creating an idea that will solve a global issue, build a basic prototype and then pitch it. It may sound daunting but no need to worry you will be guided through the process by accomplished mentors who have done it before. Additionally, the workshops happening throughout the week will help you pick up the technical skills needed and an exclusive pitching workshop just for competitors will give you the perfect pitch to win. 
 
-**Signup Coming Soon**
+[Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSc6epwhZ49bS9QFi9JPUy8Ln6j1BdFiQ8clD48o8OTzWZ9UTA/viewform)
 
 ### What can I win?
 
