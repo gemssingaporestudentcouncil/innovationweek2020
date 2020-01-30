@@ -60,12 +60,6 @@ We are challenging you to create a Paper Plane Launcher! You will be guided thro
 
 [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSeroeWH1fbBWxvWOZFvRPv8sg3Oe9iPOX8xo5UMv3yM0040Hw/viewform)
 
-### Hacker 254's Puzzle
-
-Ever heard of Cicada 3301? Well we invite you to take on a similar digital quest this Innovation Week. Can you solve Hacker 254's puzzle or will you fumble at the first step?
-
-More Details to Come.
-
 ### The Team
 
 This year's Innovation Week is being fully organized by the students of student council.
