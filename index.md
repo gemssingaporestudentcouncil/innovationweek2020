@@ -18,9 +18,7 @@ GEMS Singapore Student Council is proud to be hosting the school's first Innovat
 
 6. [Paper Plane Launching Competition](#paper-plane-launching-competition)
 
-7. [Hacker 254's Puzzle](#hacker-254s-puzzle)
-
-8. [The Team](#the-team)
+7. [The Team](#the-team)
 
 ### Innovation Challenge
 
