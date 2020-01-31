@@ -8,9 +8,9 @@ The Innovation Challenge is your chance to show your creativity and skills. You'
 
 ### What can I win?
 
-**Grand Prize:** SGD 250
+**Grand Prize:** SGD 250 (worth of any vouchers you'd like)
 
-**Best Prototype Prize:** SGD 60
+**Best Prototype Prize:** SGD 60 (worth of any vouchers you'd like)
 
 ### What do I have to do?
 
