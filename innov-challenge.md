@@ -81,7 +81,7 @@ Here are the steps to complete the challenge.
 
 7. Write a 250 word summary. You summary should include what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
 
-8. Write a 500 word writeup on how your idea solves the problem and it's impact. You need to show us the legitimacy of your claim that it will solve the issue so use stats and other research.
+8. Write a 250 word writeup on how your idea solves the problem and it's impact. You need to show us the legitimacy of your claim that it will solve the issue so use stats and other research.
 
 9. Design a logo that is 500px x 500px for your project. Save it as a .png.
 
