@@ -77,11 +77,9 @@ Here are the steps to complete the challenge.
 
 5. Now select one idea from your brainstorm. To select your final idea we recommend you use a Pugh chart like [this one for Google Sheets](https://docs.google.com/spreadsheets/d/12jvLjEAkh1baQ4FG6hwC-ztA4dXR-L9lTM_v6XlwUbc/edit?usp=sharing).
 
-6. Build a prototype of your product idea. The instructions to do so differ greatly for what ever idea you choose. A general guideline is your prototype can either work or look good don't worry about achieving both. For example for a mobile app you could create a app mockup using Adobe XD (we have a workshop for this) which will look good and have at most limited functionality (you can fake functionality, ask @sampoder on Gitter:stuck_out_tongue_winking_eye:). On the other hand though you can create an app that demonstrates the functionality but doesn't look great (still super hard). If your creating a hardware product, you can make it visually with a 3D mockup or actually work using a tools such as Arduino and Raspberry Pi. Overall, making it work is harder but still possible. So just focus one (there are exceptions such as a website but if it applies please do, I don't want you up at midnight because your app isn't playing nice). If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
+6. Build a prototype of your product idea. If there's anything you need to borrow or you need help let us know on the Gitter channel. You can also visit us at the support sessions happening every lunch time and after school at the Innovation Suite from Monday to Thursday.
 
-7. Write a 250 word summary. You summary should include what your idea is (this is the main part), how you made your prototype and how you would make the real thing.
-
-8. Write a 250 word writeup on how your idea solves the problem and it's impact. You need to show us the legitimacy of your claim that it will solve the issue so use stats and other research.
+7. Write a 250 word summary. You summary should include what your idea is (this is the main part), how you made your prototype and how you would make the real thing. You should also explain it's impact and show us the legitimacy of your claim that it will solve the issue so use stats and other research.
 
 9. Design a logo that is 500px x 500px for your project. Save it as a .png.
 
