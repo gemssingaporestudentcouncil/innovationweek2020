@@ -24,6 +24,10 @@ Innovation Week Contributors & Volunteers
 * **Mr. Heard**
 * **Yuan Tengwei**
 * **Mr. Gutierrez**
+* **Professor R Manjunatha KINI**
+* **Amelia Miranda**
+* **Loren Hickok**
+
 
 ### Student Council Members
 
