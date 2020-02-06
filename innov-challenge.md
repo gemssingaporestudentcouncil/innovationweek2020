@@ -67,7 +67,7 @@ Above are the key four stages of the competition.
 
 Here are the steps to complete the challenge.
 
-1. Join the [Gitter Channel](https://gitter.im/gems-innovation-week/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+1. Join the WhatsApp group we shared with you!
 
 2. Attend the Introduction Meeting at the Innovation Suite on Friday the 7th of Feb.
 
