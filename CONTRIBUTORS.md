@@ -28,7 +28,6 @@ Innovation Week Contributors & Volunteers
 * **Amelia Miranda**
 * **Loren Hickok**
 
-
 ### Student Council Members
 
 * **[Shaquille Aranas](https://github.com/shaquillearanas)**
