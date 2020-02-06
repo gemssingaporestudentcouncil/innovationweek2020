@@ -27,7 +27,7 @@ Innovation Week Contributors & Volunteers
 
 ### Student Council Members
 
-* **Shaquille Aranas**
+* **[Shaquille Aranas](https://github.com/shaquillearanas)**
 * **[Dhafin Rizaldi](https://github.com/dhafinr)**
 * **[Anushka Bhatia](https://github.com/anushka2814)**
 * **[Annika Nair](https://github.com/happy317)**
@@ -42,4 +42,6 @@ Innovation Week Contributors & Volunteers
 * **[Elizabeth Chernyak](https://github.com/elziule)**
 
 ### Innovation Challenge Participants
+
+Coming Soon
 
