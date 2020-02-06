@@ -71,7 +71,7 @@ Here are the steps to complete the challenge.
 
 2. Attend the Introduction Meeting at the Innovation Suite on Friday the 7th of Feb.
 
-3. Choose a Global Issue from the [List Below](Global-Issues).
+3. Choose a Global Issue from the [List Below](Global-Issues) or an issue in your local community.
 
 4. Brainstorm ideas for a product that could help solve this issue.A good resource to help with brainstorming is [Ideo's guide](https://www.ideou.com/pages/brainstorming).
 
