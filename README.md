@@ -1,7 +1,5 @@
 # Innovation Week 2020
 
-[![Gitter](https://img.shields.io/badge/Chat%20On-Gitter-red)](https://gitter.im/gems-innovation-week/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 GEMS Singapore Student Council is proud to be hosting the school’s first Innovation Week from February 5th to February 14th. We will be having a variety of events throughout the week (more announcements coming soon) for students to showcase their talents as well as devolp new ones. They’re will be an event for everyone! [Learn more](https://gemssingaporestudentcouncil.github.io/innovationweek2020/).
 
 ## Purpose of this Repo
