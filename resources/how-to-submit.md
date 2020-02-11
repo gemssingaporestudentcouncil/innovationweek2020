@@ -8,8 +8,6 @@ To submit your final project you will need a GitHub Account. Please sign up for 
 
 3. Open the folder named projects
 
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.13.46%20AM%20Edited.png?raw=true)
-
 4. Click new file in the right hand corner of the screen.
 
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.14.02%20AM.png?raw=true)
@@ -105,5 +103,3 @@ Your outcome should look like this:
 ![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/Screen%20Shot%202019-12-29%20at%209.34.14%20AM.png?raw=true)
 
 19. If you have checked off all the boxes scroll down and click Create Pull Request. Your finished well done!
-
-![alt text](https://github.com/gemssingaporestudentcouncil/innovationweek2020/blob/master/resources/submitimages/pr.png?raw=true)
