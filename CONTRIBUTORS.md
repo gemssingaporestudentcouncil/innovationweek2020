@@ -46,7 +46,7 @@ Innovation Week Contributors & Volunteers
 
 ### Innovation Challenge Participants
 
-* Tom Poder
-* Lee Officer
-* Billy Thurlow
+* **Tom Poder**
+* **Lee Officer**
+* **Billy Thurlow**
 
