@@ -36,7 +36,7 @@ To submit your final project you will need a GitHub Account. Please sign up for 
 
 **Team Member 2's Name**: [Fill In]
 
-**Team Member 2's Class**: 8.1
+**Team Member 2's Class**: [Fill In]
 
 
 **Team Member 3's Name**: [Fill In]

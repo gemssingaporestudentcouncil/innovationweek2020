@@ -46,5 +46,7 @@ Innovation Week Contributors & Volunteers
 
 ### Innovation Challenge Participants
 
-Coming Soon
+* **Tom Poder**
+* **Lee Officer**
+* **Billy Thurlow**
 

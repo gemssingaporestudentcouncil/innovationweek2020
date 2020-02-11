@@ -1,0 +1,8 @@
+Software or Programming Language Used: Figma
+
+Software Download Link: https://www.figma.com/
+
+Install Instructions: 
+
+1. To view our screens you can use a PDF Viewer.
+2. If'd you'd like to see our Figma project download the .fig and open it with the Figma Desktop App
