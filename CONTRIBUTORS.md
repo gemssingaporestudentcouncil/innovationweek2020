@@ -54,3 +54,5 @@ Innovation Week Contributors & Volunteers
 * **Jake Evans**
 * **Edwin Cheah**
 * **Spiros Kolokotsas**
+* **Owen Wei**
+* **Ryan Lee**
