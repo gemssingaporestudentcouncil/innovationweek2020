@@ -49,4 +49,5 @@ Innovation Week Contributors & Volunteers
 * **Tom Poder**
 * **Lee Officer**
 * **Billy Thurlow**
-
+* **Edwin Cheah**
+* **Spiros Kolokotsas**
