@@ -49,5 +49,8 @@ Innovation Week Contributors & Volunteers
 * **Tom Poder**
 * **Lee Officer**
 * **Billy Thurlow**
+* **Aarush Bajaj**
+* **Felix Cameron**
+* **Jake Evans**
 * **Edwin Cheah**
 * **Spiros Kolokotsas**
