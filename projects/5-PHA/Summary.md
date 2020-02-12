@@ -1,0 +1,7 @@
+Our project is a software that integrates artificial intelligence, social software and external devices. Its target groups include students, white-collar workers and the elderly. Among them, especially the elderly have the biggest health problems. At the same time, most of the elderly are not familiar with how to use electronic products and mobile phone software.The software can help them by synchronizing their health status and displaying it on their children's devices, giving them a better idea of their parents' health status. Besides the elderly, it is also very important for the young to master their own conditions. This app can collect the data of your physical conditions for analysis, and finally calculate and display the eight diseases that are most susceptible to infection in your current health state for you.
+
+It sources data from: wearable devices, case history, latest physical-examination-result and a proprietary smart personal health-examination assistance.
+
+In addition, the app will obtain the user's location information after the user's permission. When a user is considered as highly likely to be infected with a virus by the system, he will be marked as suspected infected. The benefit is that when flu season comes, it can tell users where flu or illness is high and remind them to stay away.
+
+Finally, in order to protect users' privacy, we will use our developed face recognition technology to protect customers' privacy.
