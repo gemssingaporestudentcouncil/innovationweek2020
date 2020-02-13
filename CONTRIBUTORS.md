@@ -56,3 +56,6 @@ Innovation Week Contributors & Volunteers
 * **Spiros Kolokotsas**
 * **Owen Wei**
 * **Ryan Lee**
+* **Arsh Shrivastava**
+* **Odin Schaefer**
+* **Neil Ghosh**
